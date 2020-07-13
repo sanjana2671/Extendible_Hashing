@@ -81,7 +81,7 @@ public class Table {
         
     }
     int hashFunction(int n){
-        return (n&((1<<globalDepth)-1));
+        return ((n%10)&((1<<globalDepth)-1));
     }
 
     //bucketID is a function which will be converting number to binary string
