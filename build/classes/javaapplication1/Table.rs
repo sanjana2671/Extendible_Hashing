@@ -1,2 +1,0 @@
-javaApplication1.Table
-dbs_module2.Table

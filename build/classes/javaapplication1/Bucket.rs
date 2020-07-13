@@ -1,2 +1,0 @@
-javaApplication1.Bucket
-dbs_module2.Bucket
